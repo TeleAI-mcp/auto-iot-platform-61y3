@@ -1,2 +1,3 @@
-# auto-iot-platform-61y3
+# Auto Iot Platform 61Y3
+
 A repository to test GitHub automation for issue management.
